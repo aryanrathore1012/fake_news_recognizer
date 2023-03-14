@@ -65,7 +65,36 @@ Model comparison involves comparing the performance of different models on a giv
  ### training and testing score graph:-
  
  ![image](https://user-images.githubusercontent.com/91218998/225023238-44bc9cbb-e252-4ea3-bd65-9d2048013b2c.png)
+ 
+# ---------------------------------------
 
+# inputs and outputs of main_fake_news_predictor.py :-
+
+### i would reccomond you watch the demo_video attached in the files as it would give you a clear image on what the project looks like but here are some Screenshots of the GUI
+
+### input:-
+
+![image](https://user-images.githubusercontent.com/91218998/225027285-f32bd20d-3101-48b7-b2fa-5afbaf8b41b2.png)
+
+### output:-
+
+![image](https://user-images.githubusercontent.com/91218998/225027477-23d12df8-814a-43c0-a5d3-c036439abb99.png)
+
+### msg box at the beggining:-
+
+![image](https://user-images.githubusercontent.com/91218998/225028257-be9de10d-7535-4574-948f-b5ec88145d50.png)
+
+# Limitations:-
+
+* the upgraded model of the project may throw an error sometimes related to number of features. if you know know a fix please let me know
+
+# credits and contact info:-
+
+* made by Aryan Rathore
+* LinkedIn : https://www.linkedin.com/in/aryan-rathore-b15459215/
+* email: aryanrathore13572002@gmail.com, aryan.rathore2021@vitbhopal.ac.in
+
+# ---------------------------------------
  
 
 
