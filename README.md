@@ -2,6 +2,10 @@
 
 a project that uses machine learning algorithms and natural language processing to predict if a news is fake or not using title and author of the article
 
+# need for the model:-
+
+in todays world theres too much information but nothing to crosscheck if its actually correct or not spreading  misinformation in the process. this model s a small step towards removing fake information from the internet
+
 # about the dataset
 
 the csv has 2 datasets train, and the_big_one
