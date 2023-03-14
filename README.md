@@ -1,6 +1,6 @@
 # fake_news_recognizer
 
-a project that uses machine learning algorithms and natural language processing to predict if a news is fake or not 
+a project that uses machine learning algorithms and natural language processing to predict if a news is fake or not using title and author of the article
 
 # about the dataset
 
