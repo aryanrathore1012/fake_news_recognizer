@@ -90,7 +90,7 @@ Model comparison involves comparing the performance of different models on a giv
 
 # future upgrades for the project:-
 
-* the feature can be fixed for all machines
+* the feature error can be fixed for all machines
 * the dataset only had news related to US and the west. if possible the model can be trained on indian news articles to predict if they are correct or not
 
 # credits and contact info:-
