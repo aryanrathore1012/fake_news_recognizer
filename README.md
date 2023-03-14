@@ -66,7 +66,7 @@ Model comparison involves comparing the performance of different models on a giv
  
  ![image](https://user-images.githubusercontent.com/91218998/225023238-44bc9cbb-e252-4ea3-bd65-9d2048013b2c.png)
  
-# ------------------------------------------------------------------------------
+# ----------------------------------------------------------------
 
 # inputs and outputs of main_fake_news_predictor.py :-
 
@@ -94,7 +94,7 @@ Model comparison involves comparing the performance of different models on a giv
 * LinkedIn : https://www.linkedin.com/in/aryan-rathore-b15459215/
 * email: aryanrathore13572002@gmail.com, aryan.rathore2021@vitbhopal.ac.in
 
-# ------------------------------------------------------------------------------
+# ----------------------------------------------------------------
  
 
 
