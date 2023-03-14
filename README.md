@@ -88,6 +88,11 @@ Model comparison involves comparing the performance of different models on a giv
 
 * the upgraded model of the project may throw an error sometimes related to number of features. if you know know a fix please let me know
 
+# future upgrades for the project:-
+
+* the feature can be fixed for all machines
+* the dataset only had news related to US and the west. if possible the model can be trained on indian news articles to predict if they are correct or not
+
 # credits and contact info:-
 
 * made by Aryan Rathore
