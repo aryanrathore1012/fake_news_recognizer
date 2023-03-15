@@ -8,6 +8,8 @@ in todays world theres too much information but nothing to crosscheck if its act
 
 # 📚 about the dataset
 
+you can download the train, test, submit csv from https://www.kaggle.com/c/fake-news
+
 the csv has 2 datasets train, and the_big_one
 
 ### 📙 Train dataset
