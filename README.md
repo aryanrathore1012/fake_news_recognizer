@@ -2,15 +2,15 @@
 
 a project that uses machine learning algorithms and natural language processing to predict if a news is fake or not using title and author of the article
 
-# need for the model:-
+# 💡need for the model
 
 in todays world theres too much information but nothing to crosscheck if its actually correct or not spreading  misinformation in the process. this model s a small step towards removing fake information from the internet
 
-# about the dataset
+# 📚 about the dataset
 
 the csv has 2 datasets train, and the_big_one
 
-### Train dataset:-
+### 📙 Train dataset
 
 | # | name | Non-Null Count | Dtype |
 | :-: | :-----:| :---: | :----: |
@@ -26,7 +26,7 @@ the csv has 2 datasets train, and the_big_one
 4. text: the text of the article; could be incomplete
 5. label: a label that marks whether the news article is real or fake (1 - Fake news), (0 - real News)
 
-### The_big_one dataset :-
+### 📓 The_big_one dataset 
 
 |#    | Column  | Non-Null Count | Dtype  |
 | :---:  | :------:  | :--------------: | :-----:  |
@@ -37,28 +37,28 @@ the csv has 2 datasets train, and the_big_one
 
 2. content : is the stemmed version of author + title Column in train csv
 
-### the main python program uses the_big_one stemmed content to train while the ipynb uses the train, test, submit data to train and analys the models.
+### 🖋️ the main python program uses the_big_one stemmed content to train while the ipynb uses the train, test, submit data to train and analys the models.
 
-# Roadmap of the project:-
+# 🛣️ Roadmap of the project
 
-### 1.Preliminary data analysis:
+### 🛠️ 1.Preliminary data analysis:
 Edit the data to prepare it for further analysis, describe the key features of the data, and summarize the results.
 
 * the program extract the submit labels and joins them with test
 
-### 2.Exploratory data analysis:
+### ⛓️ 2.Exploratory data analysis:
 
 Investigate data sets and summarize their main characteristics, often employing data visualization methods
 
 * the dataset in the project is filled with text only so there was no visualization needed.
 
-### 3. Data pre-processing:
+### ⚒️ 3. Data pre-processing:
 
 The dataset is preprocessed in order to check missing values, noisy data, and other inconsistencies before executing it to the algorithm.
 
 * all three train, test and the_big_one have missing values so they are replaced with "" (empty strings) and labels was typecasted to int64
 
-### 4. Model development & comparison:
+### 🧰 4. Model development & comparison:
 
 Model comparison involves comparing the performance of different models on a given task to identify which model is most effective.
 
@@ -72,7 +72,7 @@ Model comparison involves comparing the performance of different models on a giv
  
 # ----------------------------------------------------------------
 
-# inputs and outputs of main_fake_news_predictor.py :-
+# 🪟 inputs and outputs of main_fake_news_predictor.py 
 
 ### i would reccomond you watch the demo_video attached in the files as it would give you a clear image on what the project looks like but here are some Screenshots of the GUI
 
@@ -88,22 +88,19 @@ Model comparison involves comparing the performance of different models on a giv
 
 ![image](https://user-images.githubusercontent.com/91218998/225028257-be9de10d-7535-4574-948f-b5ec88145d50.png)
 
-# Limitations:-
+# ⛔ Limitations
 
 * the upgraded model of the project may throw an error sometimes related to number of features. if you know know a fix please let me know
 
-# future upgrades for the project:-
+# 🔜 future upgrades for the project
 
 * the feature error can be fixed for all machines
 * the dataset only had news related to US and the west. if possible the model can be trained on indian news articles to predict if they are correct or not
 
-# credits and contact info:-
+# 👨‍🦱 credits and contact info
 
 * made by Aryan Rathore
 * LinkedIn : https://www.linkedin.com/in/aryan-rathore-b15459215/
 * email: aryanrathore13572002@gmail.com, aryan.rathore2021@vitbhopal.ac.in
 
 # ----------------------------------------------------------------
- 
-
-
