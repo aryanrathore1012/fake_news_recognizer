@@ -33,26 +33,22 @@ from sklearn.ensemble import RandomForestClassifier
 '''                                                             IMPORTANT NOTE                                                              
                                   BEFORE YOU RUN THE PROGRAM MAKE SURE YOU READ AND FOLLOW THE LINES BELOW  
                                                        OTHERWISE THE PROGRAM WONT RUN                                                      '''
-
+                                    
 # 1
 
-'''          THERE ARE IN TOTAL OF 4 FUNCTIONS THAT CALL EACH OTHER, "EVERY FUNCTION HAS A DOCSTRING LIKE THIS SPECIFIES WHAT THAT FUNCTION DOES
-                                                        AND HOW THE THE FUNCTION WORKS"                                                      '''
+'''             MAKE SURE YOU READ THE "dataset_analysis_and_model_selection.ipynb" BEFORE USING THIS AS IT HAS THE INFO ON THE DATA
+                                            AND WHY USED RANDOM FOREST CLASSIFIER MODEL FOR MY PREDICTIONS                                         '''
+
 # 2
 
-'''      MAKE SURE YOU READ THE "dataset_analysis_and_model_selection.ipynb" BEFORE USING THIS AS IT HAS THE INFO ON THE DATA
-                                            AND WHY USED RANDOM FOREST CLASSIFIER MODEL FOR MY PREDICTIONS                                         '''
+'''      I  HAVE TO SPECIFY A FILE PATH TO read the data from (TEST.CSV, TRAIN.csv and all the images and icons) FILES IF 
+       YOU ARE USING OR COPY PASTING MY CODE MAKE YOU CHANGE THE FILE PATHS I HAVE SPECIFIED WHICH FUNCTIONS NEED A 'FILE PATH CHANGE' 
+                                                      SO MAKE SURE YOU CHANGE THEM FIRST                                                          '''
 
 # 3
 
-'''   I HAVE TO SPECIFY A FILE PATH TO read the data from (TEST.CSV, TRAIN.csv and all the images and icons) FILES IF 
-    YOU ARE USING OR COPY PASTING MY CODE MAKE YOU CHANGE THE FILE PATHS I HAVE SPECIFIED WHICH FUNCTIONS NEED A 'FILE PATH CHANGE' 
-                                                    SO MAKE SURE YOU CHANGE THEM FIRST '''
-
-# 4
-
 '''
-                  ||||||| JUST CHANGE THE FILE PATHS FROM LINE 82 TO 85 AND YOU CAN RUN THE PROGRAM FOR YOURSELF |||||||
+                  ||||||| JUST CHANGE THE FILE PATHS FROM LINE 78 TO 80 AND YOU CAN RUN THE PROGRAM FOR YOURSELF |||||||
 '''
 
 class fake_news_predictor:
