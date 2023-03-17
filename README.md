@@ -1,6 +1,6 @@
 # 📵 fake_news_recognizer
 
-a project that uses machine learning algorithms and natural language processing to predict if a news is fake or not using title and author of the article
+a project that uses classification machine learning algorithms (random forest) and natural language processing (tfidvectorizer) to predict if a news is fake or not using title and author of the article
 
 YOU CAN CHECK THE DEOM_VIDEO TO SEE HOW THE PROJECT WORKS
 
